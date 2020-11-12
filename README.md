@@ -1,3 +1,6 @@
+![Notificatcher logo](/notifishower.png)
+
+
 ```
 Notifishower 0.3.0
 
